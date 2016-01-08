@@ -1,0 +1,25 @@
+
+{
+  "name": "terry",
+  "description": "water",
+  "main": "my.js",
+  "moduleType": [],
+  "keywords": [
+    "js"
+  ],
+  "authors": [
+    "terry"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/zqy234/my.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "my.js": "https://github.com/zqy234/my.js.git#~1.0.0"
+  }
+}
